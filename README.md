@@ -28,7 +28,7 @@
 - Coming Soon
 
 ## Education						       		
-- Masters in Management	- East Central University (_July 2019_)	 			        		
-- B.A., Human Services - East Central University (_May 2017_)
+- Masters in Management	- _July 2019_			        		
+- B.A., Human Services - _May 2017_
 
  
