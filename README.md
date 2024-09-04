@@ -1,9 +1,9 @@
-# Data Scientist
+# Data Analyst
 
 #### Technical Skills: Python, SQL, PowerBI, Excel
 
 ## Work Experience
-**Jr. Data Scientist**  - Revenue Management Systems  
+**Data Analyst**  - Revenue Management Systems  
 (_January 2024 - Present_)
 - Preprocess training data using CVAT for Computer Vision Model.
 - Evaluate model output for quality and report model performance.
