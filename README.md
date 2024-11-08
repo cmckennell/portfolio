@@ -25,7 +25,7 @@
 - Use analysis and presentations to leverage the implementation of Fastenal solutions.
 
 ## Projects 
-- Coming Soon
+- [Financial Statement Analysis with Python](https://github.com/cmckennell/financial_statment_analysis)
 
 ## Education						       		
 - Masters in Management	- _July 2019_			        		
